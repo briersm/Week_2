@@ -51,7 +51,7 @@ kolomGewicht <- tabelRead[,2] #geeft alle gewichten terug
 kolomGewicht/1000 #deelt alle waarden door 1000
 
 #oefening 1.11
-kolomGewicht <- tabelRead[,2] #geeft alle gewichten terug
+kolomGewicht <- tabelRead[,2] #geeft alle gewichten terug van de kolom gewichten
 nieuwGewicht <- kolomGewicht/1000 #deelt alle waarden door 1000
 
 #oefening 1.12
